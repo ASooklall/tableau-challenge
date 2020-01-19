@@ -4,6 +4,6 @@ Assignment 20 - Tableau and CitiBikes
 ![GenderDB](/images/CitiBike-GenderDB.png =500x500)
 ![StationPopularityDB](/images/CitiBike-StationPopularityDB.png =400x600
 
-<img src="/images/CitiBike-StationDB.png" alt="StationDB" width="500" height="500">
-<img src="/images/CitiBike-GenderDB.png" alt="GenderDB" width="500" height="700">
+<img src="/images/CitiBike-StationDB.png" alt="StationDB" width="960" height="720">
+<img src="/images/CitiBike-GenderDB.png" alt="GenderDB" width="1024" height="768">
 <img src="/images/CitiBike-StationPopularityDB.png" alt="StationPopularity" width="800" height="600">
