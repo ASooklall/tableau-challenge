@@ -1,24 +1,24 @@
 # CitiBike User Demographics in Tableau
-##### Andrew Sooklall
-##### Tableau Public Link: https://public.tableau.com/profile/andrew.sooklall#!/vizhome/tableau-challenge-citibike/CitiBikeUserDemographics
+#### Andrew Sooklall
+### Tableau Public Link: https://public.tableau.com/profile/andrew.sooklall#!/vizhome/tableau-challenge-citibike/CitiBikeUserDemographics
 
-### Purpose:
-##### 
+## Purpose:
+### 
 
-### Analysis: 
-#### Station Popularity
+## Analysis: 
+### Station Popularity
 <img src="/images/CitiBike-StationPopularityDB.png" alt="StationPopularity" width="1024" height="768">
 
-###### Test Size
+#### Test Size
 
-#### StationDB
+### StationDB
 <img src="/images/CitiBike-StationDB.png" alt="StationDB" width="1024" height="768">
 
-#### GenderDB
+### GenderDB
 <img src="/images/CitiBike-GenderDB.png" alt="GenderDB" width="1024" height="768">
 
 
-### Conclusion:
+## Conclusion:
 * 
 * 
 * 
