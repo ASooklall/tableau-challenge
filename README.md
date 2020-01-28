@@ -37,24 +37,30 @@
 ### User Preferences
 <img src="/images/CitiBike-StationDB-distanceUsers.png" alt="distanceUsers" width="1024" height="768">
 
-* Test 
+* For users that travel for more than 5 mins per trip, we can see a more even division among customers vs. subscribers.
+* The age groups for these users are also more varied and there is a non-negligible amount of users above the age of 60.
+* This would be a good target for increasing userbase by making longer rides more accessible/comfortable.
 
 <img src="/images/CitiBike-StationDB-teenUse.png" alt="TeenUse" width="1024" height="768">
 
-* Test
+* Here you can see that the users under 20 are male-majority and more subscribers than customers. 
+* While the distances are more varied, there are only two starting and two ending locations for these users.
+* These areas (Baldwin at Montgomery and Sip Ave) would be strong areas for increasing the younger population.
 
 ### Gender Analysis
 <img src="/images/CitiBike-GenderDB.png" alt="GenderDB" width="1024" height="768">
 
-* Test
+* This visualization shows the breakdown of gender among users in a more detailed view. The next two visualizations will break these down per individual gender.
 
 <img src="/images/CitiBike-GenderDB-males.png" alt="GenderDB-Male" width="1024" height="768">
 
-* Test
+* This visualization shows the most popular stations for males in the 30-39 age group. 
+* These stations would be good targets for increasing and maintaining the large male population.
 
 <img src="/images/CitiBike-GenderDB-females.png" alt="GenderDB-Female" width="1024" height="768">
 
-* Test
+* The majority of female users are between the ages of 20-39.
+* This visualization shows the stations these females frequent and would provide a good target for increasing the female userbase.
 
 ## Conclusion:
 * 
