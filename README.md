@@ -16,7 +16,9 @@
 ### Station Analysis
 <img src="/images/CitiBike-StationDB.png" alt="StationDB" width="1024" height="768">
 
-* Test
+* As shown above, Grove St. Path is by far the most popular station for both starting and ending trips.
+* While Union St, and Jackson Square are among the least popular starting stations, their usage statistics are still high on average relevant to other data at 89 and 96 users on average, respectively. 
+* On the other hand, 7 stations on the end station list have less than 3 average users. These stations would be good targets for consolidation, advertising, or removal.
 
 ### User Demographics
 <img src="/images/CitiBike-StationDB-subscriberStats.png" alt="Subscribers" width="1024" height="768">
