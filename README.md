@@ -63,6 +63,9 @@
 * This visualization shows the stations these females frequent and would provide a good target for increasing the female userbase.
 
 ## Conclusion:
-* 
-* 
-* 
+* As theorized, the majority of the userbase is of the middle aged, working class males that subscribe to this service.
+* While there is a considerable female userbase present, this group needs to be expanded upon with proper advertising and increased attractions.
+* A userbase needs to be developed among users under the age of 20.
+    * This can be done by increasing the utility of stations in the Baldwin and Sip Ave. locations and also areas around universities and schools.
+* Distance riders are a good target for increasing user population as they have a more expansive makeup among age groups.
+    * Increasing availability of stations and bikes for these trips, as well as comfortability and safety during these trips are strong options.
